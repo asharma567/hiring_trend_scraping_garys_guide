@@ -1,0 +1,335 @@
+TUESDAY, AUG 23
+Development Scientist  Invitae (Other) 
+Senior Software Engineer, Big Data & Machine Learning  Zillow (Programming) 
+Senior Data Scientist  Zillow (Other) 
+Data Scientist Intern - Corporate Development  Zillow (Other, Internship) 
+Analytics Implementation Specialist  Zillow (Other) 
+Path Forward Data Scientist Returnee  Instacart (Other) 
+Data Scientist   Info Scout (Other) 
+ 
+MONDAY, AUG 22
+Digital Production Designer  Pure Storage (Design) 
+ 
+SUNDAY, AUG 21
+Telephony Architect  Collective Health (Other) 
+Data Scientist  SambaTV (Other) 
+Team Data Scientist  Eaze (Other) 
+Staff Data Scientist  Eaze (Other) 
+Data Scientist  Luxe (Other) 
+Senior Data Scientist, Ad Team  Drawbridge (Other) 
+Lead Data Scientist, Ad Team  Drawbridge (Other) 
+Data Scientist, Ad Team  Drawbridge (Other) 
+Data Scientist, User Identity  Drawbridge (Other) 
+Data Scientist  Faraday Future (Other) 
+Senior Data Scientist - Traffic Scenarios and Simulation  Faraday Future (Other) 
+Product Manager, Advertise  Quantcast (Product) 
+Staff Modeling Scientist, Prospecting  Quantcast (Other) 
+Software Engineer (Optimization), Prospecting  Quantcast (Programming) 
+Production Manager  Carbon3D (Product) 
+Data Visualization Architect  Platfora (Other) 
+Distributed Systems Engineer: Hadoop, Spark and Cloud Ecosystem  Platfora (Programming) 
+Performance Engineer  Platfora (Programming) 
+Platform Engineer  Platfora (Programming) 
+Principal Front End Developer - Charting Engine Development  Platfora (Programming) 
+Staff Distributed Systems QA Engineer  Platfora (Programming) 
+Staff Front End QA Engineer  Platfora (Programming) 
+Staff or Lead Engineer, Analytics & Distributed Data Processing  Platfora (Programming) 
+Sr. User Experience Designer, BI / Data Visualization  Platfora (Design) 
+ 
+SATURDAY, AUG 20
+Statistically Significant Data Scientist  LiveRamp (Other) 
+ 
+FRIDAY, AUG 19
+Research Scientist  Baidu (Other) 
+Security Scientist  Baidu (Other) 
+Senior Software Engineer   Baidu (Programming) 
+Research Scientist- Localization and Mapping  Baidu (Other) 
+Research Scientist - Perception  Baidu (Other) 
+Software Engineer -Generalist  Baidu (Programming) 
+Software Engineer–Machine Learning  Baidu (Programming) 
+Software Engineer - Simulation   Baidu (Programming) 
+Research Scientist - Institute of Deep Learning  Baidu (Other) 
+Research Scientist - Machine Learning   Baidu (Other) 
+Research Scientist - Machine Learning Tech Lead  Baidu (Other) 
+Research Scientist - Systems  Baidu (Other) 
+Senior Data Scientist  Unity 3D (Other) 
+Senior Data Analyst - Analytics  Unity 3D (Other) 
+Lead Data Scientist, Pricing  Beepi (Other) 
+Machine Learning Scientist  Beepi (Other) 
+ 
+THURSDAY, AUG 18
+Sr. Manager, Product Analytics  Creative Live (Product) 
+Sr. Data Scientist   Coupang (Other) 
+Sr. Machine Learning Data Scientist  Coupang (Other) 
+Principal Data Scientist (Fraud Protection)  Coupang (Other) 
+Data Engineer  Coupang (Programming) 
+Office Coordinator  Insight Data Science (Other) 
+Program Coordinator - Health Data Science Program  Insight Data Science (Other) 
+Software Engineering Manager  Counsyl (Programming) 
+Computational Biologist  Counsyl (Other) 
+Project Manager  Counsyl (Product) 
+Software Engineer  Counsyl (Programming) 
+Sr. FP&A Manager  Counsyl (Other) 
+Senior Manager/Associate Director - Clinical Marketing  Counsyl (Marketing) 
+QA Director  Counsyl (Other) 
+QA Manager  Counsyl (Other) 
+R&D Process Engineer, Automation  Counsyl (Programming) 
+ 
+WEDNESDAY, AUG 17
+Manufacturing Technician  Carbon3D (Other) 
+ 
+TUESDAY, AUG 16
+Data Scientist Lead  Remind (Other) 
+Data Engineer  Prosper (Programming) 
+ 
+THURSDAY, AUG 11
+Spaceship Captain  Planet Labs (Other) 
+ 
+WEDNESDAY, AUG 10
+Senior Data Scientist  Boxed (Other) 
+ 
+TUESDAY, AUG 09
+Sensors & Computer Vision Engineer  Magic Leap (Programming) 
+Graphics Software Engineer (Performance & Data)  Magic Leap (Programming) 
+Software Engineer (Performance & Data)  Magic Leap (Programming) 
+Data Scientist  Credit Karma (Other) 
+Software Engineer (Platform)  Applovin (Programming) 
+Full-Stack Engineer  Applovin (Programming) 
+Senior Software Engineer (Ad Server)  Applovin (Programming) 
+Software Engineer (Ad Server)  Applovin (Programming) 
+ 
+WEDNESDAY, AUG 03
+Data Scientist - Marketplace Belonging  Airbnb (Other) 
+ 
+MONDAY, AUG 01
+User Insights Researcher, Product  Omada Health (Product) 
+Product Manager  Omada Health (Product) 
+Visualization Scientist  Vicarious (Other) 
+ 
+THURSDAY, JUL 28
+Supplier Quality Engineer  Carbon3D (Programming) 
+ 
+TUESDAY, JUL 26
+Research Scientist  Carbon3D (Other) 
+ 
+MONDAY, JUL 25
+Front End Engineer - Creative  Twitch (Programming) 
+ 
+SUNDAY, JUL 17
+Principal Product Designer  Helix (Design) 
+Bioinformatics Scientist  Helix (Other) 
+Bioinformatics Scientist - Algorithms  Helix (Other) 
+Bioinformatics Software Engineer  Helix (Programming) 
+Data Scientist  Womply (Other) 
+Airbnb Connect: Data Science Associate  Airbnb (Other) 
+ 
+WEDNESDAY, JUL 13
+Manufacturing Technician - Coatings  Carbon3D (Other) 
+ 
+MONDAY, JUL 04
+Aerosol Sensor Scientist  Aclima (Other) 
+Data Scientist: Indoor Environmental Quality Modeling & Measurement Interpretation  Aclima (Other) 
+ 
+SATURDAY, JUL 02
+Senior Data Scientist  Boxed (Other) 
+ 
+THURSDAY, JUN 30
+Growth Data Analyst  Shopkick (Other) 
+ 
+WEDNESDAY, JUN 22
+Men&#39;s Editorial Lead  StitchFix (Media) 
+Data Analytics Specialist - Pricing  Airbnb (Other) 
+ 
+TUESDAY, JUN 21
+Senior Analyst, Operations  Carbon3D (Other) 
+Group Product Manager - Growth  Yelp (Product) 
+ 
+THURSDAY, JUN 09
+Digital Acquisition\Optimization Manager  Pure Storage (Other) 
+ 
+TUESDAY, JUN 07
+Production Control Manager  Carbon3D (Product) 
+Manufacturing Test Engineer  Carbon3D (Programming) 
+Inventory / Logistics Manager  Carbon3D (Other) 
+ 
+SUNDAY, JUN 05
+Lead Survey Scientist  Airbnb (Other) 
+ 
+THURSDAY, JUN 02
+Adobe Engineer  Pure Storage (Programming) 
+ 
+MONDAY, MAY 30
+Environmental Data Scientist  Aclima (Other) 
+ 
+FRIDAY, MAY 27
+2017 Code for America Fellow- Data Scientist  Code for America (Other) 
+Imagery Data Scientist  Planet Labs (Other) 
+Infrastructure Engineering Manager  Airbnb (Programming) 
+ 
+WEDNESDAY, MAY 18
+Technical Lead Manager #1006  Instacart (Other) 
+ 
+SATURDAY, MAY 14
+Software Engineer - Lead Data Scientist  Branch (Programming) 
+ 
+THURSDAY, MAY 12
+Data Scientist - Payments & Monetization  Airbnb (Other) 
+Data Scientist Expert - Paid Growth  Airbnb (Other) 
+Product Manager - Emerging Platforms  Twitch (Product) 
+ 
+FRIDAY, MAY 06
+Analytics Product Manager  Twitch (Product) 
+ 
+TUESDAY, MAY 03
+Data Scientist  Insikt (Other) 
+ 
+THURSDAY, APR 28
+Senior Software Engineer - Discover & Watch  Twitch (Programming) 
+ 
+THURSDAY, APR 21
+Application Engineer, Education  Databricks (Programming) 
+ 
+WEDNESDAY, APR 20
+Data Scientist  Shopkick (Other) 
+ 
+TUESDAY, APR 12
+Manufacturing Engineering Manager  Carbon3D (Programming) 
+ 
+MONDAY, APR 11
+Product Manager - Web  Twitch (Product) 
+ 
+SATURDAY, APR 09
+Research Technician  Carbon3D (Other) 
+ 
+WEDNESDAY, MAR 30
+Senior Data Analyst  Everlane (Other) 
+ 
+SATURDAY, MAR 26
+Data Scientist/Software Engineer  xAd (Programming) 
+Data Scientist  xAd (Other) 
+Data Scientist/Software Engineer  xAd (Programming) 
+Associate Talent Advocate, San Francisco  Hired (Other) 
+Data Analyst  Womply (Other) 
+Bioinformatician / Computational Biologist (Multiple Roles)  Helix (Other) 
+Senior Healthcare Data Scientist   One Medical (Other) 
+Electrical Engineer: Prototype and Design  Aclima (Programming) 
+Embedded Systems Engineer  Aclima (Programming) 
+Senior Mechanical Engineer  Aclima (Programming) 
+Product Manager, Data Experience  Aclima (Product) 
+Digital Product Designer  Aclima (Design) 
+Backend Software Engineer  Aclima (Programming) 
+DevOps Engineer  Aclima (Programming) 
+Big Data Infrastructure Engineer  Hired (Programming) 
+Senior Search Engineer  Hired (Programming) 
+Senior Data Scientist  Hired (Other) 
+ 
+FRIDAY, MAR 25
+Software Engineer - Marketing  Twitch (Programming) 
+JavaScript Engineer  Twitch (Programming) 
+Data Scientist  StitchFix (Other) 
+Data Platform Sotftware Engineer  StitchFix (Programming) 
+Data Science Intern-Human Computation / Behavioral Science  StitchFix (Other, Internship) 
+Product Manager  StitchFix (Product) 
+Principal Product Designer & Team Lead - Customer Facing  StitchFix (Design) 
+Engineering Manager / Director   StyleSeat (Programming) 
+Head of Data Science  StyleSeat (Other) 
+Lead Data Engineer - Big Data Infrastructure  StyleSeat (Programming) 
+Lead Search and Discovery Engineer (Search, Recommendation, Personalization)   StyleSeat (Programming) 
+Senior Software Engineer - Search and Discovery  StyleSeat (Programming) 
+Software Engineer - Search and Discovery  StyleSeat (Programming) 
+Data Scientist  Stripe (Other) 
+Data Scientist Engineering - All Levels  Sojern (Programming) 
+ 
+THURSDAY, MAR 24
+Data Analyst  Ninth Decimal (Other) 
+Technical Lead/Manager, Datacenter and Networking Infrastructure  Ninth Decimal (Other) 
+DevOps/Sysadmin/Release Engineer  Ninth Decimal (Programming) 
+Data Scientist   Shopkick (Other) 
+ 
+WEDNESDAY, MAR 23
+Medical Affairs Program Manager  Invitae (Other) 
+Clinical Laboratory Scientist  Invitae (Other) 
+Clinical genomics scientist  Invitae (Other) 
+ 
+TUESDAY, MAR 22
+Data Scientist  Aclima (Other) 
+ 
+MONDAY, MAR 21
+Data Scientist  Remind (Other) 
+ 
+FRIDAY, MAR 18
+Senior Data Scientist  Ravel Law (Other) 
+ 
+THURSDAY, MAR 17
+Front-End Software Engineer - Discover & Watch  Twitch (Programming) 
+ 
+WEDNESDAY, MAR 16
+Product Manager, Identity  Twitch (Product) 
+Data Scientist  DoorDash (Other) 
+Senior Product Manager - Science & Research  xAd (Product) 
+ 
+WEDNESDAY, MAR 09
+Data Scientist - User & Product Analytics  Reddit (Product) 
+Data Scientist - Machine Learning  Airbnb (Other) 
+Data Scientist - Product Growth  Airbnb (Product) 
+Product Manager  Airbnb (Product) 
+Software Engineer, Frontend  Airbnb (Programming) 
+Data Scientist  Yelp (Other) 
+Data Scientist - New Grad  Yelp (Other) 
+Data Infrastructure Engineer  Reddit (Programming) 
+Data Scientist - Personalization & Discovery  Reddit (Other) 
+Senior Front End Developer  Expa (Programming) 
+Lead Data Scientist   Twitch (Other) 
+Data Scientist  Twitch (Other) 
+Software Engineer, Data Tools   Airbnb (Programming) 
+Software Engineer, Booking Experience  Airbnb (Programming) 
+Head of Analytics, Lyft Line  Lyft (Other) 
+Data Scientist  Instacart (Other) 
+Lead Data Science Instructor  General Assembly (Other) 
+Digital Marketing Analytics Manager  Pure Storage (Marketing) 
+Data Scientists for Change Internship  Change.org (Other, Internship) 
+Data Scientist  Change.org (Other) 
+Senior Data Scientist  Change.org (Other) 
+Senior Data Engineer  Blippar (Programming) 
+Data Scientist, New Grad  Thumbtack (Other) 
+Data Scientist   Databricks (Other) 
+Spark Technical Instructor (Contractor)  Databricks (Other) 
+Spark Community Evangelist  Databricks (Other) 
+ 
+MONDAY, MAR 07
+Data Engineer  Airbnb (Programming) 
+Data Scientist - Expert  Airbnb (Other) 
+Data Scientist Expert, Brand & Advertising  Airbnb (Other) 
+Data Scientist - Economic Policy  Airbnb (Other) 
+Data Analytics Specialist - People Analytics  Airbnb (Other) 
+Data Scientist - Experienced  Airbnb (Other) 
+DIGITAL MARKETING RECRUITER  Six Spoke Media (Marketing) 
+Software Engineer: Data  Lyft (Programming) 
+Senior Front End Engineer  Lyft (Programming) 
+Senior Data Scientist  Lyft (Other) 
+ 
+FRIDAY, MAR 04
+Data Wrangler  Everlane (Other) 
+ 
+THURSDAY, MAR 03
+New Partnerships Associate  eSpark Learning (Other) 
+New Partnerships Manager (California)  eSpark Learning (Other) 
+Learning Designer  eSpark Learning (Design) 
+Senior Software Engineer  eSpark Learning (Programming) 
+ 
+WEDNESDAY, MAR 02
+Product Engineer - Chat & Messaging  Twitch (Programming) 
+Data Scientist  Clearslide (Other) 
+ 
+TUESDAY, MAR 01
+Data Engineer - All Levels  Sojern (Programming) 
+Data Engineer Reporting - All Levels  Sojern (Programming) 
+Data Scientist Engineering - All Levels  Sojern (Programming) 
+Director of Data Science and Machine Learning  Pubmatic (Other) 
+ 
+MONDAY, FEB 29
+Front End Engineer  Lyft (Programming) 
+Data Engineer  Lyft (Programming) 
+Data Modeler   Lyft (Other) 
+Data Scientist  Lyft (Other) 
+Operations Research Scientist  Instacart (Other) 

@@ -1,0 +1,57 @@
+SUNDAY, AUG 21
+Director, Advanced Analytics Solutions  RAPP (Other) 
+SVP, Experience Analytics  RAPP (Other) 
+Software Engineer (Search & Relevance)  Flipagram (Programming) 
+Data Scientist  Skurt (Other) 
+Senior Scientist  Kernel (Other) 
+Neuroscientist  Kernel (Other) 
+Full Stack Developer  Kernel (Programming) 
+Marketing Data Scientist  Faraday Future (Marketing) 
+Manager of Behavioral Science  Faraday Future (Other) 
+Data Scientist  Faraday Future (Other) 
+Fullstack Software Engineer, Data Science Team  Fullscreen Media (Programming) 
+ 
+THURSDAY, AUG 18
+Product Management Leader  Coupang (Product) 
+ 
+TUESDAY, AUG 09
+Senior Data Scientist  Thrive Market (Other) 
+Senior DevOps Engineer  Tala (Programming) 
+Data Scientist  Tala (Other) 
+ 
+MONDAY, AUG 01
+Junior Data Scientist  Fab Fit Fun (Other) 
+Director of Data Science  Retention Science (Other) 
+Full-Stack Ruby On Rails Engineer   Retention Science (Programming) 
+Data Engineer   Retention Science (Programming) 
+ 
+FRIDAY, MAY 06
+Data Scientist - Machine Learning Platform  Riot Games (Other) 
+ 
+TUESDAY, APR 26
+Data Scientist  Sweetgreen (Other) 
+ 
+FRIDAY, APR 15
+Fullstack Software Engineer, Data Science Team  Fullscreen (Programming) 
+ 
+FRIDAY, MAR 25
+Director, Product Analytics  Snapchat (Product) 
+ 
+WEDNESDAY, MAR 23
+Data Scientist, Portfolio Pricing and Structuring  Inspire Energy (Other) 
+Data Scientist  Airmap (Other) 
+Director, Customer Research  Bottlenose (Other) 
+ 
+WEDNESDAY, MAR 16
+Data Scientist, BuzzFeed Motion Pictures  BuzzFeed (Other) 
+ 
+FRIDAY, MAR 11
+Data Analyst  BuzzFeed (Other) 
+ 
+WEDNESDAY, MAR 09
+Director of Engineering - Data  Snapchat (Programming) 
+Research Scientist  Snapchat (Other) 
+Data Scientist, Product Analytics   Snapchat (Product) 
+Data Scientist  Riot Games (Other) 
+Lead Data Science Instructor  General Assembly (Other) 
+Part Time Data Science Instructor  General Assembly (Other) 
